@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Weights & Biases
+wandb/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model checkpoints
+*.pt
+*.bin
+*.safetensors
+
+# Claude Code
+.claude/
+=4.44.0
